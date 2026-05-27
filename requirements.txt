@@ -1,6 +1,6 @@
-opencv-python
-mediapipe
-numpy
-pandas
-tensorflow
-matplotlib
+opencv-python==4.13.0.92
+mediapipe==0.10.35
+numpy==2.4.6
+pandas==2.3.0
+tensorflow==2.20.0
+matplotlib==3.10.9
